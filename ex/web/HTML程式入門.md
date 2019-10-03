@@ -124,12 +124,7 @@ https://www.runoob.com/html/html5-intro.html
   } else if (lang === 'tw') {
     showTw();
   } else {
-    if (navigator.language.toLowerCase().includes('zh'))
-      showTw();
-    else
-      showEn();
-  }
-  </script>
+    
 </html>
 
 
